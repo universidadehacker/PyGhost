@@ -250,7 +250,7 @@ def message():
 print(ban)
 menu()
 try:
-		opc = int(input("\033[01;35m[?]\033[0m PyBckGen -> "))
+		opc = int(input("\033[01;35m[?]\033[0m PyGhost -> "))
 		if opc == 1:
 			criar()
 			optionNgrok()
